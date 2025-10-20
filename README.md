@@ -19,6 +19,3 @@
 
 ---
 
-## Contributions in the last year
-
-![Contributions in the last year](https://ghchart.rshah.org/AtanovNS)
