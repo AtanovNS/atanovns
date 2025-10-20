@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="02D964AA-A469-4C92-B84D-20568F7B57A2.png" alt="Спасибо за внимание к моей страничке" width="400">
+</p>
 
-<!--
-**AtanovNS/atanovns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Обо мне:
+Аналитик Данных, ex-Semrush
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Мои проекты:
+
+| Название | Описание | Стек |
+|-----------|-----------|------|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+---
+
+## Contributions in the last year
+
+![Contributions in the last year](https://ghchart.rshah.org/YOUR_USERNAME)
