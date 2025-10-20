@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="02D964AA-A469-4C92-B84D-20568F7B57A2.png" alt="Спасибо за внимание к моей страничке" width="400">
+  <img src="cat.png" alt="Спасибо за внимание к моей страничке" width="400">
 </p>
 
 ---
@@ -21,4 +21,4 @@
 
 ## Contributions in the last year
 
-![Contributions in the last year](https://ghchart.rshah.org/YOUR_USERNAME)
+![Contributions in the last year](https://ghchart.rshah.org/AtanovNS)
